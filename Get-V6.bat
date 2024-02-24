@@ -1,0 +1,2 @@
+wget "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u" -O "IPV6.m3u"
+wget "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt" -O "IPV6.txt"

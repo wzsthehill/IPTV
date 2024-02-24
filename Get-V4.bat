@@ -1,0 +1,2 @@
+wget "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u" -O "IPV4.m3u"
+wget "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt" -O "IPV4.txt"
