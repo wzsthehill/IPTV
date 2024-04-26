@@ -1,4 +1,4 @@
 # HSTS 1.0 Known Hosts database for GNU Wget.
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-mirror.ghproxy.com	0	0	1713331831	31536000
+mirror.ghproxy.com	0	0	1714134542	31536000
